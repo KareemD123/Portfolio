@@ -15,7 +15,7 @@ export class Resume extends Component {
           LinkedIn Profile
         </a>
         <br />
-        <img src={require("./resumePDF/kareemresume.JPG")} />
+        <img src={require("./pictures/kareemresume.JPG")} />
       </div>
     );
   }
