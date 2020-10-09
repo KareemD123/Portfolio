@@ -22,7 +22,7 @@ export class Aboutme extends Component {
               <div className="social-links">
                 {/* LinkedIn */}
                 <a
-                  href="http://www.google.ca"
+                  href="http://www.linkedin.com/in/kareem-draz"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -30,7 +30,7 @@ export class Aboutme extends Component {
                 </a>
                 {/* GitHub */}
                 <a
-                  href="http://www.google.ca"
+                  href="https://github.com/KareemD123"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
