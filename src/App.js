@@ -14,7 +14,7 @@ import "./App.css";
 export class App extends Component {
   render() {
     return (
-      <div style={{ height: "800px", position: "relative" }}>
+      <div style={{ height: "100%" }}>
         <Layout fixedHeader>
           <Header
             title={

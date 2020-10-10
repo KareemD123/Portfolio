@@ -90,3 +90,15 @@
   font-size: 66px;
   padding-right: 5rem;
 }
+
+.category-tab {
+  height: 50px;
+}
+
+.resume {
+  text-align: center;
+}
+
+div {
+  height: 100%;
+}

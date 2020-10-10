@@ -9,13 +9,16 @@ import React, { Component } from "react";
 export class Resume extends Component {
   render() {
     return (
-      <div>
+      <div className="resume">
         <h1>Resume Page</h1>
         <a href="https://www.linkedin.com/in/kareem-draz" target="_blank">
           LinkedIn Profile
         </a>
         <br />
-        <img src={require("./pictures/kareemresume.JPG")} />
+        <img
+          className="myresume"
+          src={require("./pictures/kareemresume.JPG")}
+        />
       </div>
     );
   }

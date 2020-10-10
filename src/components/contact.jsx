@@ -9,7 +9,7 @@ export class Contact extends Component {
           <Cell col={6}>
             <h2>Kareem Draz</h2>
             <img
-              src="https://cdn2.iconfinder.com/data/icons/avatar-2/512/Fred_man-512.png"
+              src="https://i.imgur.com/71esWCr.png?1"
               alt="avatar"
               style={{ height: "250px" }}
             />
@@ -50,9 +50,6 @@ export class Contact extends Component {
             </div>
           </Cell>
         </Grid>
-        <h1>Contact me</h1>
-        <h3>Email: draz@ualberta.ca</h3>
-        <h3>Phone: +1 (587) 974-8805</h3>
       </div>
     );
   }
